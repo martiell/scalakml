@@ -40,8 +40,8 @@
         <configuration>
           <packageName>scalakml</packageName>
           <wrapContents>
-            <wrapContent>{http://www.opengis.net/kml/2.2}DocumentType</wrapContent>
-          </wrapContents>
+            <wrapContent>{http://www.opengis.net/kml/2.2}AbstractFeatureType</wrapContent>
+         </wrapContents>
         </configuration>
         <executions>
           <execution>
