@@ -23,13 +23,6 @@
 
   </dependencies>
 
-  <repositories>
-    <repository>
-      <id>sonatype-ossrh-releases</id>
-      <url>https://oss.sonatype.org/content/repositories/releases</url>
-    </repository>
-  </repositories>
-
   <build>
     <plugins>
 
